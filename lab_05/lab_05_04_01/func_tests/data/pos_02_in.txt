@@ -1,0 +1,9 @@
+Alexeev
+Nikolai
+5 5 5 5
+Smirnova
+Anna
+5 3 4 4
+Petrov
+Ivan
+5 4 5 3

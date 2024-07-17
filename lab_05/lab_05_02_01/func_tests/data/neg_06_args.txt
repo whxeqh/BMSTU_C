@@ -1,0 +1,1 @@
+func_tests/data/file1.txt func_tests/data/file2.txt

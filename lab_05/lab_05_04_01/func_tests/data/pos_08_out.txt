@@ -1,0 +1,6 @@
+Ivanov
+Petr
+5 3 4 4 
+Smirnova
+Anna
+5 5 4 5 

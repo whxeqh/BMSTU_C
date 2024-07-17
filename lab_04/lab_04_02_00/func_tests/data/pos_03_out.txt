@@ -1,0 +1,6 @@
+Result: 
+after 3
+before 2
+quit 3
+therefore 3
+moreovere 2
