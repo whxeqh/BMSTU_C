@@ -1,0 +1,1 @@
+../../lab_10_03_common/inc/same_functions.h

@@ -1,0 +1,4 @@
+kartoshka
+10
+lepeshka
+20

@@ -1,0 +1,6 @@
+petrushka
+80
+makaroshka
+50
+okroshka
+10

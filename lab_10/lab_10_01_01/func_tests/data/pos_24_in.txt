@@ -1,0 +1,16 @@
+kartoshka
+40
+lepeshka
+30
+okroshka
+20
+sereshka
+10
+petrushka
+50
+zenenyshka
+60
+makaroshka
+70
+pryanik
+80

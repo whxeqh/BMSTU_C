@@ -1,0 +1,4 @@
+kartoshka
+10
+kartoshka
+20

@@ -1,0 +1,1 @@
+a func_tests/data/mtr_neg_05_in1.txt func_tests/data/mtr_neg_05_in2.txt out/out.txt

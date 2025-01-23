@@ -1,0 +1,1 @@
+func_tests/data/pos_51_in.txt name "dada da"

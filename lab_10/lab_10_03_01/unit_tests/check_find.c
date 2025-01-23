@@ -1,0 +1,1 @@
+../../lab_10_03_common/unit_tests/check_find.c

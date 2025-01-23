@@ -1,0 +1,1 @@
+ins rewr.txt out.txt
